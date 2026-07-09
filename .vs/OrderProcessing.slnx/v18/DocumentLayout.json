@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OrderGit\\OrderProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\viewmodels\\checkoutitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\viewmodels\\checkoutitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OrderProcessing\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OrderProcessing\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T12:55:05.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\Order.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Order.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:02:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutItemViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\ViewModels\\CheckoutItemViewModel.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\ViewModels\\CheckoutItemViewModel.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\ViewModels\\CheckoutItemViewModel.cs",
+              "RelativeToolTip": "OrderProcessing\\ViewModels\\CheckoutItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T12:54:13.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Program.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Program.cs",
+              "RelativeToolTip": "OrderProcessing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T06:25:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OrderProcessing\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T05:20:59.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:06:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:06:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrderProcessing\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OrderProcessing\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T11:34:42.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:04:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Product.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:00:54.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrderProcessing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T10:12:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderProcessing\\appsettings.json",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\appsettings.json",
+              "RelativeToolTip": "OrderProcessing\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T05:24:29.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
