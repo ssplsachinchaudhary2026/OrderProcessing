@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\OrderGit\\OrderProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\services\\orderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\services\\orderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\services\\iorderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\services\\iorderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|c:\\projects\\ordergit\\orderprocessing\\orderprocessing\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7CEF15-B892-1D7C-E449-8BE1E35932A8}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "OrderProcessing\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:14:09.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderProcessing\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:14:12.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderProcessing\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:14:06.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\Product.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:13:20.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderProcessing\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:12:36.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OrderProcessing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T13:11:07.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OrderProcessing\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:56:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProcessingService.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\OrderProcessingService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Services\\OrderProcessingService.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\OrderProcessingService.cs",
+              "RelativeToolTip": "OrderProcessing\\Services\\OrderProcessingService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:08:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderProcessingService.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\IOrderProcessingService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Services\\IOrderProcessingService.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\IOrderProcessingService.cs",
+              "RelativeToolTip": "OrderProcessing\\Services\\IOrderProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:07:55.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderProcessing\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T10:25:37.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Services\\IOrderServices.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\IOrderServices.cs",
+              "RelativeToolTip": "OrderProcessing\\Services\\IOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:40:23.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Services\\OrderServices.cs",
+              "RelativeToolTip": "OrderProcessing\\Services\\OrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:40:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Projects\\OrderGit\\OrderProcessing\\OrderProcessing\\Repositories\\Repository.cs",
+              "RelativeToolTip": "OrderProcessing\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:33:32.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
