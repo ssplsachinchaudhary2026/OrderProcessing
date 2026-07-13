@@ -1,6 +1,9 @@
-﻿namespace OrderProcessing.Repositories
+﻿using OrderProcessing.Models;
+
+namespace OrderProcessing.Repositories
 {
-    public class IOrderRepository
+    public interface IOrderRepository : IRepository<Order>
     {
+        Task<Order?> GetOrderWithItemsAsync(int orderId);
     }
 }

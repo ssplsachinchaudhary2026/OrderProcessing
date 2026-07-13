@@ -19,11 +19,21 @@ namespace OrderProcessing.Services
                 return;
             if (order.Status != OrderStatus.Pending)
                 return;
+
             order.Status = OrderStatus.Processing;
             await _context.SaveChangesAsync();
             await Task.Delay(5000);
-        
-        
+            bool paymentSuccess = true; 
+            if (paymentSuccess)
+            {
+                order.Status = OrderStatus.Completed;
+            }
+            else
+            {
+                order.Status = OrderStatus.Failed;
+            }
+            order.ProcessedAt = DateTime.Now;
+            await _context.SaveChangesAsync();
         }
     }
 }

@@ -1,6 +1,8 @@
 using Hangfire;
 using Microsoft.EntityFrameworkCore;
 using OrderProcessing.Data;
+using OrderProcessing.Repositories;
+using OrderProcessing.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,11 @@ builder.Services.AddHangfire(config =>
     config.UseSqlServerStorage(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddHangfireServer();
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
+builder.Services.AddScoped<IOrderServices, OrderService>();
+builder.Services.AddScoped<IOrderProcessingService, OrderProcessingService>();
 
 var app = builder.Build();
 
