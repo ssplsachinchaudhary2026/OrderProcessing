@@ -1,0 +1,171 @@
+﻿@model OrderProcessing.Models.Order
+
+@{
+    ViewData["Title"] = "Order Status";
+}
+
+<div class="container py-5">
+
+    <div class="card shadow-lg border-0 rounded-4">
+
+        <div class="card-header bg-dark text-white p-4">
+
+            <h2 class="mb-0">
+                Order Status
+            </h2>
+
+        </div>
+
+        <div class="card-body">
+
+            <div class="row mb-4">
+
+                <div class="col-md-6">
+
+                    <h4 class="fw-bold">
+                        Order #@Model.Id
+                    </h4>
+
+                    <p>
+                        <strong>Customer :</strong>
+                        @Model.CustomerName
+                    </p>
+
+                </div>
+
+                <div class="col-md-6 text-md-end">
+
+                    @if (Model.Status == OrderProcessing.Models.OrderStatus.Pending)
+                    {
+                        <span class="badge bg-warning fs-6 p-3">
+                            Pending
+                        </span>
+                    }
+                    else if (Model.Status == OrderProcessing.Models.OrderStatus.Processing)
+                    {
+                        <span class="badge bg-info fs-6 p-3">
+                            Processing
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success fs-6 p-3">
+                            Completed
+                        </span>
+                    }
+
+                </div>
+
+            </div>
+
+            <div class="row mb-4">
+
+                <div class="col-md-6">
+
+                    <div class="alert alert-success">
+
+                        <h5>Total Amount</h5>
+
+                        <h3>
+                            ₹@Model.Total
+                        </h3>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="alert alert-danger">
+
+                        <h5>Discount</h5>
+
+                        <h3>
+
+                            ₹@Model.DiscountAmount
+
+                        </h3>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <h4 class="mb-3">
+                Ordered Items
+            </h4>
+
+            <table class="table table-bordered table-hover">
+
+                <thead class="table-primary">
+
+                    <tr>
+
+                        <th>Product</th>
+                        <th>Qty</th>
+                        <th>Price</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model.Items)
+                    {
+                        <tr>
+
+                            <td>@item.Product?.Name</td>
+
+                            <td>@item.Quantity</td>
+
+                            <td class="fw-bold text-success">
+
+                                @item.UnitPrice
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+            @if (Model.Status == OrderProcessing.Models.OrderStatus.Pending ||
+                 Model.Status == OrderProcessing.Models.OrderStatus.Processing)
+            {
+                <div class="alert alert-warning">
+
+                    Your order is processing in the background.
+                    Click Refresh to check latest status.
+
+                </div>
+            }
+
+            <div class="d-flex gap-3">
+
+                <a asp-action="Status"
+                       asp-route-id="@Model.Id"
+                       class="btn btn-primary">
+
+                    Refresh Status
+
+                </a>
+
+                <a asp-controller="Products"
+                       asp-action="Index"
+                       class="btn btn-secondary">
+
+                    ⬅ Back
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

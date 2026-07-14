@@ -1,0 +1,74 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model OrderProcessing.ViewModels.CheckoutViewModel
+
+@{
+    ViewData["Title"] = "Confirm Order";
+
+    decimal total = Model.Items.Sum(x => x.Price * x.Quantity);
+    decimal discount = total > 10000 ? total * 0.10m : 0;
+    decimal finalTotal = total - discount;
+}
+
+<div class="container mt-4">
+    <h2>Confirm Order</h2>
+
+    <form asp-controller="Order" asp-action="Confirm" method="post">
+
+        <input type="hidden" asp-for="CustomerName" />
+
+        <p><strong>Customer Name:</strong> @Model.CustomerName</p>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Amount</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.Items.Count; i++)
+                {
+                    var amount = Model.Items[i].Price * Model.Items[i].Quantity;
+
+                    <tr>
+                        <td>
+                            @Model.Items[i].ProductName
+
+                            <input type="hidden" asp-for="Items[i].ProductId" />
+                            <input type="hidden" asp-for="Items[i].ProductName" />
+                            <input type="hidden" asp-for="Items[i].Price" />
+                            <input type="hidden" asp-for="Items[i].Stock" />
+                            <input type="hidden" asp-for="Items[i].Quantity" />
+                        </td>
+
+                        <td>₹@Model.Items[i].Price</td>
+                        <td>@Model.Items[i].Quantity</td>
+                        <td>₹@amount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="card p-3">
+            <p><strong>Total:</strong> ₹@total</p>
+            <p><strong>Discount:</strong> ₹@discount</p>
+            <h4><strong>Final Amount:</strong> ₹@finalTotal</h4>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">
+            Confirm & Place Order
+        </button>
+
+        <a asp-controller="Order" asp-action="Checkout" class="btn btn-secondary mt-3">
+            Back
+        </a>
+
+    </form>
+</div>
