@@ -1,4 +1,10 @@
  Order Processing with Background Jobs
+intall packages
+Structure:
+Controller
+repositary
+services
+views
 
 When a customer places an order:
 
