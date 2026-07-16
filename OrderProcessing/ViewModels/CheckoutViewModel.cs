@@ -7,5 +7,6 @@ namespace OrderProcessing.ViewModels
         [Required(ErrorMessage = "Please Enter Your Name ")]
         public String CustomerName { get ; set; } = "";
         public List<CheckoutItemViewModel> Items { get; set; } = new();
+        public decimal DiscountPercentage { get; set; }
     }
 }
